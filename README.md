@@ -18,3 +18,51 @@ The goal of the analysis is to:
 - use the insights gained to make recommendations for how to optimize inventory levels and minimize stockouts which may include adjustments to reorder points, ordering certain products, or discontinuing products that are not selling well.
 + GJYG YT URUKRK UFKU
 
+
+## DATA SOURCE
+
+The data used for this work is obtained from the AdventureWorks 2019 database 2019. I studied the Schema, Objects related to the Schema, data dictionary and found the right tables for the analysis.
+•	You can find a link to get started with installation and restoration of the database to your local machine. here:
+
+## SKILLS AND DEMONSTARTED
+- SQL (Select, alias, Views)
+- PowerBI concepts like:
++ creating columns for calculations for dates, time, and duration
+* Creating key performance indicators (KPIs) and other business calculations,
+o	Developing general DAX calculations that deal with text and numbers,
+o	Performed advanced DAX calculations for solving statistical measures and other mathematical formulas
+o	Data Modelling,
+o	Measures,
+o	Navigation panes,
+o	filters,
+o	tooltips,
+o	buttons,
+o	bookmarks,
+o	Data Visualization
+
+
+## DATA ANALYSIS
+I CLEANED MY DATA, FIND below the table to show before adn after
+
+table 1                    |   table 2
+:------------------:       |   :---------------------------:
+![](InventoryPage.png)     |    ![](InsightPage.png)
+
+
+##ibadan has highest sales
+
+
+## Data visualization
+![](download.jpeg)
+
+
+
+
+## insights
+
+- sokoto had the lowest
+- aba didnt it, becaus eo this ..
+
+
+## Recommednation
+
