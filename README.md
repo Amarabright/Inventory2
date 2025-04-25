@@ -1,5 +1,7 @@
 # Inventory2
-This is an inventory magament ststem analysis using SQL, TABLEAU AND POWERbI
+This is an inventory management system analysis using SQL, TABLEAU AND POWERbI
+
+![](healthcare.jpeg)
 
 ## INTRODUCTION
 This is an Inventory Management analysis done with SQL and PowerBI, I analyzed Inventory data, production data and Sales data from the AdventureWorks 2019 database. It is a fictitious company named "FitCapacity" and it is intended to solve some problems.
